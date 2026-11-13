@@ -66,7 +66,7 @@ java SortFile
 Update the following line in `SortFile.java` to point to the folder you want to organize:
 
 ```java
-String folderPath = "C:\\Users\\Harsh\\OneDrive\\Documents\\My document";
+String folderPath = "Your_folder_path";
 ```
 
 This project is a simple example of file-system handling in Java using `File`, `Files`, and directory operations.
